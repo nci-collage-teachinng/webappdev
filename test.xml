@@ -1,0 +1,14 @@
+<Recipes>
+	<Recipe>
+		 <Category colour="Green">Veg</Category>
+		<Title>Salad</Title>
+		<URL>http:// </URL>
+		<Allergens>Nutes</Allergens>
+  	</Recipe>
+  	<Recipe>
+    		 <Category colour="Red">Veg</Category>
+    		<Title>Curry</Title>
+    		<URL>http:// </URL>
+    		<Allergens>Milk</Allergens>
+  	</Recipe>
+</Recipes>
